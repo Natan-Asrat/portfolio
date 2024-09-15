@@ -266,7 +266,8 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>Portfolio</h2>
-    <p>Explore my diverse range of projects showcasing my expertise in software development.<br> Scroll through below to see examples of my work.<br> Use the filters to select projects based on specific technologies.</p>
+    <p>Explore my diverse range of projects showcasing my expertise in software development.<br> Scroll through below to see examples of my work. <br> Click on any image to find the link to visit the project's website and view its description (the link icon appears on the bottom right corner of the image). <br>
+      Use the filters to select projects based on specific technologies.</p>
   </div><!-- End Section Title -->
 
   <div class="container">
@@ -294,7 +295,7 @@
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/new.png" class="img-fluid" alt="">
-          <div class="/emishopapp">
+          <div class="portfolio-info">
             <h4>Emi Shop</h4>
             <p>Discover, shop, and connect with Emi Shop!</p>
             <a href="/apps/emishopapp/new.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
@@ -310,7 +311,7 @@
           </div>
         </div><div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/saved.png" class="img-fluid" alt="">
-          <div class="/emishopapp">
+          <div class="portfolio-info">
             <h4>Emi Shop</h4>
             <p>Discover, shop, and connect with Emi Shop!</p>
             <a href="/apps/emishopapp/saved.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
