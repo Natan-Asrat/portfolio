@@ -36,10 +36,29 @@ import 'aos/dist/aos.css';
 import 'glightbox/dist/css/glightbox.min.css';
 
 import Swiper from 'swiper';
+import Project1 from './components/Project1.vue';
+import NatvilleGrade12Tutor from './components/NatvilleGrade12Tutor.vue';
+import NatvilleFreshmanTutor from './components/NatvilleFreshmanTutor.vue';
+import YegnaPharma from './components/YegnaPharma.vue';
+import RestaurantNameGenerator from './components/RestaurantNameGenerator.vue';
+import AudioDetectorApp from './components/AudioDetectorApp.vue';
+import EmiShopApp from './components/EmiShopApp.vue';
+import LocationCollectorApp from './components/LocationCollectorApp.vue';
+import ExcelManagementTool from './components/ExcelManagementTool.vue';
+import EmiMusic from './components/EmiMusic.vue';
 
 
 const routes = [
-    {path: '/', component: Home}
+    {path: '/', component: Home},
+    {path: '/natville_g12_tutor', component: NatvilleGrade12Tutor},
+    {path: '/natville_freshman_tutor', component: NatvilleFreshmanTutor},
+    {path: '/yegna_pharma', component: YegnaPharma},
+    {path: '/restaurant_name_generator', component: RestaurantNameGenerator},
+    {path: '/audio_detector_and_notifier', component: AudioDetectorApp},
+    {path: '/emishopapp', component: EmiShopApp},
+    {path: '/location_collector_and_viewer', component: LocationCollectorApp},
+    {path: '/excel_management_tool', component: ExcelManagementTool},
+    {path: '/emi_music', component: EmiMusic}
 ]
 
 const router = createRouter(
