@@ -923,7 +923,7 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>Contact</h2>
-  <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+  <p>Get in touch to discuss how I can help you achieve your goals and address your needs.</p>
 </div><!-- End Section Title -->
 
 <div class="container" data-aos="fade" data-aos-delay="100">
