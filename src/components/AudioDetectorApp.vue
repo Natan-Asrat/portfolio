@@ -37,11 +37,11 @@
             '/apps/audio_detector/events_viewer_direction_mockup.png'
         ],
         portfolioTitle: 'Audio Detector and Notifier',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioDescription: 'Listens to your surroundings 24/7 and alerts you instantly!',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'No extra details.',
-        portfolioCategory: 'Android App with Tensorflow Lite',
-        portfolioClient: 'Self',
+        portfolioCategory: 'Android Java | Tensorflow Lite YamNet Model | VueJS Website',
+        portfolioClient: 'Personal Project',
         portfolioProjectDate: 'August 2024',
         portfolioProjectUrl: 'https://audio-event-detector.vercel.app/',
         portfolioPageTitle: 'Audio Detector and Notifier'

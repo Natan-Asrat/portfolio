@@ -36,7 +36,6 @@ import 'aos/dist/aos.css';
 import 'glightbox/dist/css/glightbox.min.css';
 
 import Swiper from 'swiper';
-import Project1 from './components/Project1.vue';
 import NatvilleGrade12Tutor from './components/NatvilleGrade12Tutor.vue';
 import NatvilleFreshmanTutor from './components/NatvilleFreshmanTutor.vue';
 import YegnaPharma from './components/YegnaPharma.vue';

@@ -31,17 +31,20 @@
         portfolioImages: [
             
   '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/apps/emishopapp/new.png',
+  '/apps/emishopapp/profile.png',
+  '/apps/emishopapp/saved.png',
+  ''
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Emi Shop',
+        portfolioDescription: 'Discover, shop, and connect with Emi Shop!',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
-        portfolioClient: 'Awesome Client',
-        portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioCategory: 'Android Java | Django Backend | VueJS Website',
+        portfolioClient: 'Personal Project',
+        portfolioProjectDate: 'August 2023',
+        portfolioProjectUrl: 'https://emishopapp.onrender.com/',
+        portfolioPageTitle: 'Emi Shop'
       };
     }
   }

@@ -30,18 +30,21 @@
         // Sample data, replace with your actual data
         portfolioImages: [
             
-  '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/apps/natville_g12/physics_list_mockup.png',
+  '/apps/natville_g12/electronics_mockup.png',
+  '/apps/natville_g12/electromagnetism_mockup.png',
+  '/apps/natville_g12/applications_mockup.png',
+  ''
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Natville Grade 12 Physics',
+        portfolioDescription: 'I’m here to help grade 12 students with my Physics course!',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
-        portfolioClient: 'Awesome Client',
-        portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioCategory: 'Android Java | VueJS Website',
+        portfolioClient: 'Personal Project',
+        portfolioProjectDate: 'August 2024',
+        portfolioProjectUrl: 'https://natville-grade-12-tutor.vercel.app/',
+        portfolioPageTitle: 'Natville Grade 12 Physics'
       };
     }
   }

@@ -30,18 +30,22 @@
         // Sample data, replace with your actual data
         portfolioImages: [
             
-  '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/desktop/yegna_pharma/dashboard_profile.jpg',
+  '/desktop/yegna_pharma/Inventory.jpg',
+  '/desktop/yegna_pharma/list_of_drugs.pn',
+  '/desktop/yegna_pharma/sales_report.jpg',
+  '/desktop/yegna_pharma/add_new_order.jpg',
+  '/desktop/yegna_pharma/my_profile.png'
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Yegna Pharma',
+        portfolioDescription: 'Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
-        portfolioClient: 'Awesome Client',
-        portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioCategory: 'Desktop Java Swing App | SQLite DB | VueJS Website',
+        portfolioClient: 'Academic Project',
+        portfolioProjectDate: 'July 2023',
+        portfolioProjectUrl: 'https://yegna-pharma.onrender.com/',
+        portfolioPageTitle: 'Yegna Pharma'
       };
     }
   }

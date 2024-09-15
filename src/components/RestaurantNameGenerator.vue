@@ -30,18 +30,17 @@
         // Sample data, replace with your actual data
         portfolioImages: [
             
-  '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/ai/restaurant_name_generator/screenshot.jpg',
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Restaurant Name Generator',
+        portfolioDescription: 'This project uses LangChain to generate restaurant names and menu items based on selected cuisines. It utilizes a language model and sequential chaining to provide restaurant-related outputs.',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
-        portfolioClient: 'Awesome Client',
-        portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioCategory: 'Langchain | Streamlit | Groq API',
+        portfolioClient: 'Personal Project',
+        portfolioProjectDate: 'June 2024',
+        portfolioProjectUrl: 'https://github.com/Natan-Asrat/langchain-restaurant-name-generator',
+        portfolioPageTitle: 'Restaurant Name Generator'
       };
     }
   }

@@ -30,18 +30,20 @@
         // Sample data, replace with your actual data
         portfolioImages: [
             
-  '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/apps/natville_freshman/choose_playlist_mockup.png',
+  '/apps/natville_freshman/logic_mockup.png',
+  '/apps/natville_freshman/maths_mockup.png',
+  '/apps/natville_freshman/playing_mockup.png'
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Natville Freshman Tutor',
+        portfolioDescription: 'I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials.',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
-        portfolioClient: 'Awesome Client',
-        portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioCategory: 'Android Java | VueJS Website',
+        portfolioClient: 'Personal Project',
+        portfolioProjectDate: 'August 2024',
+        portfolioProjectUrl: 'https://natville-freshman-tutor.onrender.com/',
+        portfolioPageTitle: 'Natville Freshman Tutor'
       };
     }
   }

@@ -30,18 +30,21 @@
         // Sample data, replace with your actual data
         portfolioImages: [
             
-  '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/desktop/emi_music/emimusic_playing.jpg',
+  '/desktop/emi_music/emimusic_recent.jpg',
+  '/desktop/emi_music/emimusic_add_playlist.jpg',
+  '/desktop/emi_music/emimusic_add_music.jpg',
+  ''
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Emi Music',
+        portfolioDescription: 'Discover, play, and enjoy your favorite tunes effortlessly with our music player app.',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
-        portfolioClient: 'Awesome Client',
-        portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioCategory: 'Desktop Java Swing App | SQLite DB | VueJS Website',
+        portfolioClient: 'Academic Project',
+        portfolioProjectDate: 'January 2024',
+        portfolioProjectUrl: 'https://emi-music-web.onrender.com/',
+        portfolioPageTitle: 'Emi Music'
       };
     }
   }

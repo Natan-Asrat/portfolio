@@ -289,16 +289,16 @@
             <h4>Emi Shop</h4>
             <p>Discover, shop, and connect with Emi Shop!</p>
             <a href="/apps/emishopapp/detail.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/new.png" class="img-fluid" alt="">
-          <div class="portfolio-info">
+          <div class="/emishopapp">
             <h4>Emi Shop</h4>
             <p>Discover, shop, and connect with Emi Shop!</p>
             <a href="/apps/emishopapp/new.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div><div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/profile.png" class="img-fluid" alt="">
@@ -306,15 +306,15 @@
             <h4>Emi Shop</h4>
             <p>Discover, shop, and connect with Emi Shop!</p>
             <a href="/apps/emishopapp/profile.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div><div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/saved.png" class="img-fluid" alt="">
-          <div class="portfolio-info">
+          <div class="/emishopapp">
             <h4>Emi Shop</h4>
             <p>Discover, shop, and connect with Emi Shop!</p>
             <a href="/apps/emishopapp/saved.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div><!-- End Portfolio Item -->
 
@@ -324,7 +324,7 @@
             <h4>Location Collector and Viewer</h4>
             <p>Easily Collect, Save, and Visualize Your Locations!</p>
             <a href="/apps/location_collector/new_location_collector_file_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -333,7 +333,7 @@
             <h4>Location Collector and Viewer</h4>
             <p>Easily Collect, Save, and Visualize Your Locations!</p>
             <a href="/apps/location_collector/save_location_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -342,7 +342,7 @@
             <h4>Location Collector and Viewer</h4>
             <p>Easily Collect, Save, and Visualize Your Locations!</p>
             <a href="/apps/location_collector/saved_file_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -351,7 +351,7 @@
             <h4>Location Collector and Viewer</h4>
             <p>Easily Collect, Save, and Visualize Your Locations!</p>
             <a href="/apps/location_collector/visualize_locations_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -360,7 +360,7 @@
             <h4>Location Collector and Viewer</h4>
             <p>Easily Collect, Save, and Visualize Your Locations!</p>
             <a href="/apps/location_collector/direction_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div><!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
@@ -369,7 +369,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
             <a href="/apps/audio_detector/audio_detector_working_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
@@ -378,7 +378,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
             <a href="/apps/audio_detector/audio_detector_settings_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
@@ -388,7 +388,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
             <a href="/apps/audio_detector/audio_detector_settings_filled_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
@@ -398,7 +398,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
             <a href="/apps/audio_detector/events_viewer_list_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
@@ -408,7 +408,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
             <a href="/apps/audio_detector/events_viewer_map_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
@@ -417,7 +417,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
             <a href="/apps/audio_detector/events_viewer_direction_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
@@ -429,7 +429,7 @@
             <h4>Natville Grade 12 Physics</h4>
             <p>I’m here to help grade 12 students with my Physics course!</p>
             <a href="/apps/natville_g12/physics_list_mockup.png" title="Natville Grade 12 Physics" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -438,7 +438,7 @@
             <h4>Natville Grade 12 Physics</h4>
             <p>I’m here to help grade 12 students with my Physics course!</p>
             <a href="/apps/natville_g12/electronics_mockup.png" title="Natville Grade 12 Physics" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -447,7 +447,7 @@
             <h4>Natville Grade 12 Physics</h4>
             <p>I’m here to help grade 12 students with my Physics course!</p>
             <a href="/apps/natville_g12/electromagnetism_mockup.png" title="Natville Grade 12 Physics" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -456,7 +456,7 @@
             <h4>Natville Grade 12 Physics</h4>
             <p>I’m here to help grade 12 students with my Physics course!</p>
             <a href="/apps/natville_g12/applications_mockup.png" title="Natville Grade 12 Physics" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
@@ -468,7 +468,7 @@
             <h4>Natville Freshman Tutor</h4>
             <p>I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials.</p>
             <a href="/apps/natville_freshman/choose_playlist_mockup.png" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -477,7 +477,7 @@
             <h4>Natville Freshman Tutor</h4>
             <p>I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials.</p>
             <a href="/apps/natville_freshman/logic_mockup.png" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -486,7 +486,7 @@
             <h4>Natville Freshman Tutor</h4>
             <p>I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials.</p>
             <a href="/apps/natville_freshman/maths_mockup.png" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -495,7 +495,7 @@
             <h4>Natville Freshman Tutor</h4>
             <p>I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials.</p>
             <a href="/apps/natville_freshman/playing_mockup.png" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <!-- End Portfolio Item -->
@@ -506,7 +506,7 @@
             <h4>Yegna Pharma</h4>
             <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
             <a href="/desktop/yegna_pharma/dashboard_profile.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -515,7 +515,7 @@
             <h4>Yegna Pharma</h4>
             <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
             <a href="/desktop/yegna_pharma/Inventory.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -524,7 +524,7 @@
             <h4>Yegna Pharma</h4>
             <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
             <a href="/desktop/yegna_pharma/list_of_drugs.png" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -533,7 +533,7 @@
             <h4>Yegna Pharma</h4>
             <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
             <a href="/desktop/yegna_pharma/sales_report.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -542,7 +542,7 @@
             <h4>Yegna Pharma</h4>
             <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
             <a href="/desktop/yegna_pharma/add_new_order.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -551,7 +551,7 @@
             <h4>Yegna Pharma</h4>
             <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
             <a href="/desktop/yegna_pharma/my_profile.png" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
       <!-- End Portfolio Item -->
@@ -561,7 +561,7 @@
             <h4>Emi Music</h4>
             <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
             <a href="/desktop/emi_music/emimusic_playing.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emi_music" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>       
       
@@ -571,7 +571,7 @@
             <h4>Emi Music</h4>
             <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
             <a href="/desktop/emi_music/emimusic_recent.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emi_music" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>       
       
@@ -581,7 +581,7 @@
             <h4>Emi Music</h4>
             <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
             <a href="/desktop/emi_music/emimusic_add_playlist.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emi_music" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>       
       
@@ -591,7 +591,7 @@
             <h4>Emi Music</h4>
             <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
             <a href="/desktop/emi_music/emimusic_add_music.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emi_music" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>       
       
@@ -601,7 +601,7 @@
             <h4>Excel Management Tool</h4>
             <p>Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.</p>
             <a href="/desktop/excel_management/excel_mgt_home.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/excel_management_tool" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -610,7 +610,7 @@
             <h4>Excel Management Tool</h4>
             <p>Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.</p>
             <a href="/desktop/excel_management/excel_mgt_new.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/excel_management_tool" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -619,7 +619,7 @@
             <h4>Excel Management Tool</h4>
             <p>Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.</p>
             <a href="/desktop/excel_management/excel_mgt_search.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/excel_management_tool" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
 
@@ -630,7 +630,7 @@
             <h4>Emi Shop</h4>
             <p>Landing page for Emi Shop App.</p>
             <a href="/websites/emishopapp/emishop_landing.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -639,7 +639,7 @@
             <h4>Emi Shop</h4>
             <p>View Posts from Emi Shop App Backend.</p>
             <a href="/websites/emishopapp/emishop_posts.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -648,7 +648,7 @@
             <h4>Emi Shop</h4>
             <p>View Categories from Emi Shop App Backend.</p>
             <a href="/websites/emishopapp/emishop_categories.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -657,7 +657,7 @@
             <h4>Emi Shop</h4>
             <p>View Packages from Emi Shop App Backend.</p>
             <a href="/websites/emishopapp/emishop_packages.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
 
@@ -667,7 +667,7 @@
             <h4>Location Collector and Viewer</h4>
             <p>View Packages from Emi Shop App Backend.</p>
             <a href="/websites/location_collector/screenshot.jpg" title="Location Collector and Viewer" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -676,7 +676,7 @@
             <h4>Excel Management Tool</h4>
             <p>Landing Page for Excel Management Tool.</p>
             <a href="/websites/excel_management/screenshot.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/excel_management_tool" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
 
@@ -686,7 +686,7 @@
             <h4>Natville Freshman Tutor</h4>
             <p>Landing Page for Natville Freshman Tutor.</p>
             <a href="/websites/natville_freshman/screenshot.jpg" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -695,7 +695,7 @@
             <h4>Natville Grade 12 Tutor</h4>
             <p>Landing Page for Natville Grade 12 Tutor.</p>
             <a href="/websites/natville_g12/screenshot.jpg" title="Natville Grade 12 Tutor" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -704,7 +704,7 @@
             <h4>Audio Detector and Notifier</h4>
             <p>Landing Page for Audio Detector and Notifier.</p>
             <a href="/websites/audio_detector/screenshot.jpg" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -713,7 +713,7 @@
             <h4>Emi Music</h4>
             <p>Landing Page for Emi Music.</p>
             <a href="/websites/emi_music/screenshot.jpg" title="Emi Music" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/emi_music" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -722,16 +722,16 @@
             <h4>Yegna Pharma</h4>
             <p>Landing Page for Yegna Pharma.</p>
             <a href="/websites/yegna_pharma/screenshot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
-          <img src="/ai/screenshot.jpg" class="img-fluid" alt="">
+          <img src="/ai/restaurant_name_generator/screenshot.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Restaurant Name Generator</h4>
             <p>This project uses LangChain to generate restaurant names and menu items based on selected cuisines. It utilizes a language model and sequential chaining to provide restaurant-related outputs.</p>
-            <a href="/ai/screenshot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+            <a href="/ai/restaurant_name_generator/screenshot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/restaurant_name_generator" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
         

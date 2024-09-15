@@ -30,18 +30,21 @@
         // Sample data, replace with your actual data
         portfolioImages: [
             
-  '/apps/emishopapp/detail.png',
-  '/apps/emishopapp/new.png'
+  '/apps/location_collector/new_location_collector_file_mockup.png',
+  '/apps/location_collector/save_location_mockup.png',
+  '/apps/location_collector/saved_file_mockup.png',
+  '/apps/location_collector/visualize_locations_mockup.png',
+  '/apps/location_collector/direction_mockup.png'
         ],
-        portfolioTitle: 'My Awesome Project',
-        portfolioDescription: 'This is a detailed description of the project.',
+        portfolioTitle: 'Location Collector and Viewer',
+        portfolioDescription: 'Easily Collect, Save, and Visualize Your Locations!',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
-        portfolioCategory: 'Web Development',
+        portfolioCategory: 'Android Java | VueJS Website',
         portfolioClient: 'Awesome Client',
         portfolioProjectDate: 'September 2024',
         portfolioProjectUrl: 'https://example.com',
-        portfolioPageTitle: 'Portfolio Details'
+        portfolioPageTitle: 'Location Collector and Viewer'
       };
     }
   }
