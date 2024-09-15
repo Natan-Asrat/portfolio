@@ -104,7 +104,7 @@
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-globe"></i>
         <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
+          <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
           <p>Websites</p>
         </div>
       </div><!-- End Stats Item -->
@@ -278,6 +278,7 @@
         <li data-filter=".filter-app">Android</li>
         <li data-filter=".filter-desktop">Desktop</li>
         <li data-filter=".filter-web">Web</li>
+        <li data-filter=".filter-ai">AI</li>
       </ul><!-- End Portfolio Filters -->
 
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -362,60 +363,60 @@
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div><!-- End Portfolio Item -->
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/audio_detector_working_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
-            <a href="/apps/audio_detector/audio_detector_working_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/apps/audio_detector/audio_detector_working_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/audio_detector_settings_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
-            <a href="/apps/audio_detector/audio_detector_settings_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/apps/audio_detector/audio_detector_settings_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/audio_detector_settings_filled_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
-            <a href="/apps/audio_detector/audio_detector_settings_filled_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/apps/audio_detector/audio_detector_settings_filled_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/events_viewer_list_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
-            <a href="/apps/audio_detector/events_viewer_list_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/apps/audio_detector/events_viewer_list_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/events_viewer_map_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
-            <a href="/apps/audio_detector/events_viewer_map_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/apps/audio_detector/events_viewer_map_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/events_viewer_direction_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
             <p>Listens to your surroundings 24/7 and alerts you instantly!</p>
-            <a href="/apps/audio_detector/events_viewer_direction_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/apps/audio_detector/events_viewer_direction_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
@@ -706,6 +707,34 @@
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/emi_music/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Music</h4>
+            <p>Landing Page for Emi Music.</p>
+            <a href="/websites/emi_music/screenshot.jpg" title="Emi Music" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/yegna_pharma/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Landing Page for Yegna Pharma.</p>
+            <a href="/websites/yegna_pharma/screenshot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Restaurant Name Generator</h4>
+            <p>This project uses LangChain to generate restaurant names and menu items based on selected cuisines. It utilizes a language model and sequential chaining to provide restaurant-related outputs.</p>
+            <a href="/ai/screenshot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        
       <!-- End Portfolio Container -->
     </div>
     </div>
