@@ -10,12 +10,12 @@
     <div class="row justify-content-center">
       <div class="col-lg-9">
         <h2>Natan Asrat</h2>
-        <p>I'm <span class="typed" data-typed-items="Desktop Developer, Android Developer, Backend Developer, VueJS Developer, Java Developer, Langchain Developer, Tensorflow Developer">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+        <p>I'm <span class="typed" data-typed-items="Desktop Developer, Android Developer, Backend Developer, VueJS Developer, Java Developer, Langchain Developer, Tensorflow Developer">Backend Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
         <div class="social-links">
-          <a href="#"><i class="bi bi-twitter-x"></i></a>
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank"><i class="bi bi-envelope"></i></a>
+          <a href="https://www.facebook.com/natan.asrat.56/"><i class="bi bi-facebook"></i></a>
+          <a href="https://t.me/fail_your_way_to_success"><i class="bi bi-telegram"></i></a>
+          <a href="https://linkedin.com/in/natan-asrat"><i class="bi bi-linkedin"></i></a>
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@
             <ul>
               <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>22 Jan 2004</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Github:</strong> <span><a href="https://github.com/Natan-Asrat">Natan-Asrat</a></span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+2519 0856 0168</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+251908560168">+2519 0856 0168</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Addis Ababa, Ethiopia</span></li>
             </ul>
           </div>
@@ -56,7 +56,7 @@
             <ul>
               <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <span><a href="https://www.linkedin.com/in/natan-asrat/">natan-asrat</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Computer Science BSc. (2025)</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>nathanyilmaasrat@example.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@example.com</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
@@ -219,7 +219,7 @@
           <p><em>Skilled software developer with expertise in Android apps, Django backend development, and AI using Langchain and TensorFlow. Experienced in creating mobile, desktop, and web applications, as well as working with machine learning.</em></p>
           <ul>
             <li>Addis Ababa, Ethiopia</li>
-            <li><a href="mailto:nathanyilmaasrat@example.com">nathanyilmaasrat@example.com</a></li>
+            <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@example.com</a></li>
             <li><a href="https://github.com/Natan-Asrat">GitHub: Natan-Asrat</a></li>
             <li><a href="https://www.linkedin.com/in/natan-asrat/">LinkedIn: natan-asrat</a></li>
           </ul>
@@ -841,126 +841,155 @@
 </div>
 </section><!-- End Services Section -->
 
-<!-- Testimonials Section -->
-<section id="testimonials" class="testimonials section">
 
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Credits</h2>
-    <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-  </div><!-- End Section Title -->
+<section id="credits" class="testimonials section">
+
+<!-- Section Title -->
+<div class="container section-title" data-aos="fade-up">
+  <h2>Credits</h2>
+  <p>I want to express my gratitude to those who have supported me along my journey.</p>
+</div><!-- End Section Title -->
 
 <div class="container" data-aos="fade-up" data-aos-delay="100">
-    <div class="swiper init-swiper">
-      <div class="swiper-wrapper">
-        <!-- Swiper Slides -->
-        <div v-for="(testimonial, index) in testimonials" :key="index" class="swiper-slide">
-          <div class="testimonial-item">
-            <div class="row gy-4 justify-content-center">
-              <div class="col-lg-6">
-                <div class="testimonial-content">
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    <span>{{ testimonial.quote }}</span>
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                  <h3>{{ testimonial.author }}</h3>
-                  <h4>{{ testimonial.position }}</h4>
-                  <div class="stars">
-                    <i v-for="star in 5" :key="star" class="bi bi-star-fill"></i>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg-2 text-center">
-                <img :src="testimonial.image" class="img-fluid testimonial-img" alt="">
+  <div class="swiper init-swiper">
+    <div class="swiper-wrapper">
+      <!-- Swiper Slides -->
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="row gy-4 justify-content-center">
+            <div class="col-lg-8">
+              <div class="testimonial-content">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Thank you, Mom, for always supporting me and never doubting my ideas and ambitions!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <h3>Seblewongel Adugna</h3>
+                <h4>Mom</h4>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="swiper-pagination"></div>
-    </div>
-  </div>
-</section><!-- /Testimonials Section -->
 
-<!-- Contact Section -->
-<section id="contact" class="contact section">
-
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Contact</h2>
-    <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-  </div><!-- End Section Title -->
-
-  <div class="container" data-aos="fade" data-aos-delay="100">
-
-    <div class="row gy-4">
-
-      <div class="col-lg-4">
-        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-          <i class="bi bi-geo-alt flex-shrink-0"></i>
-          <div>
-            <h3>Address</h3>
-            <p>A108 Adam Street, New York, NY 535022</p>
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="row gy-4 justify-content-center">
+            <div class="col-lg-8">
+              <div class="testimonial-content">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Thank you, Mekdi, for believing in me and making the huge investment of buying me a laptop when I was just a kid!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <h3>Mekdes Tekle</h3>
+                <h4>Aunt</h4>
+              </div>
+            </div>
           </div>
-        </div><!-- End Info Item -->
-
-        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-          <i class="bi bi-telephone flex-shrink-0"></i>
-          <div>
-            <h3>Call Us</h3>
-            <p>+1 5589 55488 55</p>
-          </div>
-        </div><!-- End Info Item -->
-
-        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-          <i class="bi bi-envelope flex-shrink-0"></i>
-          <div>
-            <h3>Email Us</h3>
-            <p>info@example.com</p>
-          </div>
-        </div><!-- End Info Item -->
-
+        </div>
       </div>
 
-      <div class="col-lg-8">
-        <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-          <div class="row gy-4">
-
-            <div class="col-md-6">
-              <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="row gy-4 justify-content-center">
+            <div class="col-lg-8">
+              <div class="testimonial-content">
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  <span>Credit to <a href="https://t.me/valorelm">@valorelm</a> for making designs and logos for me throughout my journey. Click <a href="https://t.me/valorelm"> here</a> to contact her on Telegram!</span>
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+                <h3>@valorelm</h3>
+                <h4>Designer</h4>
+              </div>
             </div>
-
-            <div class="col-md-6 ">
-              <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
-            </div>
-
-            <div class="col-md-12">
-              <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
-            </div>
-
-            <div class="col-md-12">
-              <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
-            </div>
-
-            <div class="col-md-12 text-center">
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
-
-              <button type="submit">Send Message</button>
-            </div>
-
           </div>
-        </form>
-      </div><!-- End Contact Form -->
+        </div>
+      </div>
+
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+</section><!-- End Credits Section -->
+
+<!-- Contact Section -->
+
+<!-- Section Title -->
+<section id="contact" class="contact section">
+
+<!-- Section Title -->
+<div class="container section-title" data-aos="fade-up">
+  <h2>Contact</h2>
+  <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+</div><!-- End Section Title -->
+
+<div class="container" data-aos="fade" data-aos-delay="100">
+  <div class="row gy-4">
+
+    <!-- Original Contact Information Column -->
+    <div class="col-md-6">
+      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+        <i class="bi bi-geo-alt flex-shrink-0"></i>
+        <div>
+          <h3>Address</h3>
+          <p>Addis Ababa, Ethiopia</p>
+        </div>
+      </div><!-- End Info Item -->
+
+      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+        <i class="bi bi-telephone flex-shrink-0"></i>
+        <div>
+          <h3>Call Me</h3>
+          <p><a href="tel:+251908560168">+251908560168</a></p>
+        </div>
+      </div><!-- End Info Item -->
+
+      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+        <i class="bi bi-envelope flex-shrink-0"></i>
+        <div>
+          <h3>Email Me</h3>
+          <p><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@gmail.com</a></p>
+        </div>
+      </div><!-- End Info Item -->
+
+    </div>
+
+    <!-- New Social Media Column -->
+    <div class="col-md-6">
+      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+        <i class="bi bi-linkedin flex-shrink-0"></i>
+        <div>
+          <h3>LinkedIn</h3>
+          <p><a href="https://www.linkedin.com/in/natan-asrat/" target="_blank">Connect with me on LinkedIn</a></p>
+        </div>
+      </div><!-- End Info Item -->
+
+      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+        <i class="bi bi-facebook flex-shrink-0"></i>
+        <div>
+          <h3>Facebook</h3>
+          <p><a href="https://www.facebook.com/natan.asrat.56/" target="_blank">Follow me on Facebook</a></p>
+        </div>
+      </div><!-- End Info Item -->
+
+      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+        <i class="bi bi-telegram flex-shrink-0"></i>
+        <div>
+          <h3>Telegram</h3>
+          <p><a href="https://t.me/fail_your_way_to_success" target="_blank">Message me on Telegram</a></p>
+        </div>
+      </div><!-- End Info Item -->
 
     </div>
 
   </div>
+</div>
 
-</section><!-- /Contact Section -->
 
+
+</section>
 </main>
 </template>
 
@@ -975,6 +1004,8 @@ import AOS from 'aos';
 import Typed from 'typed.js';
 import PureCounter from '@srexi/purecounterjs';
 import GLightbox from 'glightbox';
+
+
 export default {
     data() {
     return {
@@ -1026,6 +1057,7 @@ export default {
     initSwiper() {
       new Swiper('.init-swiper', this.swiperConfig);
     },
+    
   },
   setup() {
     const scrollTop = ref(null);
@@ -1224,6 +1256,42 @@ export default {
       scrollTop
     };
   }
+ 
 }
 
 </script>
+
+<style scoped>
+/* Swiper container styling */
+.swiper {
+  overflow: visible; /* Allows overlapping of slides */
+}
+
+/* Swiper slide styling */
+.swiper-slide {
+  /* Ensure each slide takes up a portion of the container */
+  width: 50%; 
+  margin: 0 10%;
+  position: relative;
+}
+
+/* Optional: Adjust visibility of slides for a better overlap effect */
+.swiper-slide-prev,
+.swiper-slide-next {
+  opacity: 0.8; /* Make adjacent slides slightly transparent */
+}
+
+/* Ensure the slides are horizontally scrollable */
+.swiper-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+/* Optional: Style the slide content */
+.testimonial-item {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 20px;
+}
+
+</style>

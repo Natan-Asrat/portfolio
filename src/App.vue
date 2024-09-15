@@ -20,10 +20,10 @@
   <footer id="footer" class="footer position-relative light-background">
       <div class="container">
         <h3 class="sitename">Natan Asrat</h3>
-        <p>Django | </p>
+        <p>Backend | Android | Django | Java | Langchain Developer </p>
         <div class="social-links d-flex justify-content-center">
-          <a href=""><i class="bi bi-facebook"></i></a>
-          <a href=""><i class="bi bi-instagram"></i></a>
+          <a href="https://www.facebook.com/natan.asrat.56/"><i class="bi bi-facebook"></i></a>
+          <a href="https://t.me/fail_your_way_to_success"><i class="bi bi-telegram"></i></a>
           <a href="https://www.youtube.com/@natvilletutor"><i class="bi bi-youtube"></i></a>
           <a href="https://www.linkedin.com/in/natan-asrat/"><i class="bi bi-linkedin"></i></a>
         </div>
