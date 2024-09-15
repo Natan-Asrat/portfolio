@@ -87,7 +87,7 @@
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-laptop"></i>
         <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
+          <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
           <p>Desktop Apps</p>
         </div>
       </div>
@@ -104,7 +104,7 @@
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-globe"></i>
         <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+          <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
           <p>Websites</p>
         </div>
       </div><!-- End Stats Item -->
@@ -594,7 +594,33 @@
           </div>
         </div>       
       
-      
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/excel_management/excel_mgt_home.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Excel Management Tool</h4>
+            <p>Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.</p>
+            <a href="/desktop/excel_management/excel_mgt_home.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/excel_management/excel_mgt_new.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Excel Management Tool</h4>
+            <p>Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.</p>
+            <a href="/desktop/excel_management/excel_mgt_new.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/excel_management/excel_mgt_search.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Excel Management Tool</h4>
+            <p>Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.</p>
+            <a href="/desktop/excel_management/excel_mgt_search.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
       <!-- End Portfolio Container -->
     </div>
     </div>
