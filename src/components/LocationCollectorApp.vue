@@ -41,9 +41,9 @@
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
         portfolioCategory: 'Android Java | VueJS Website',
-        portfolioClient: 'Awesome Client',
+        portfolioClient: 'Eureka',
         portfolioProjectDate: 'September 2024',
-        portfolioProjectUrl: 'https://example.com',
+        portfolioProjectUrl: 'https://eureka-location-collector.onrender.com/',
         portfolioPageTitle: 'Location Collector and Viewer'
       };
     }
