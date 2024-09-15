@@ -499,10 +499,104 @@
         </div>
         <!-- End Portfolio Item -->
 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/yegna_pharma/dashboard_profile.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
+            <a href="/desktop/yegna_pharma/dashboard_profile.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/yegna_pharma/Inventory.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
+            <a href="/desktop/yegna_pharma/Inventory.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/yegna_pharma/list_of_drugs.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
+            <a href="/desktop/yegna_pharma/list_of_drugs.png" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/yegna_pharma/sales_report.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
+            <a href="/desktop/yegna_pharma/sales_report.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/yegna_pharma/add_new_order.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
+            <a href="/desktop/yegna_pharma/add_new_order.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/yegna_pharma/my_profile.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Yegna Pharma</h4>
+            <p>Easily manage and track sales, inventory, and drug listings while monitoring revenue in real time for your Pharmacy.</p>
+            <a href="/desktop/yegna_pharma/my_profile.png" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
       <!-- End Portfolio Item -->
-
-      </div><!-- End Portfolio Container -->
-
+      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/emi_music/emimusic_playing.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Music</h4>
+            <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
+            <a href="/desktop/emi_music/emimusic_playing.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>       
+      
+      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/emi_music/emimusic_recent.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Music</h4>
+            <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
+            <a href="/desktop/emi_music/emimusic_recent.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>       
+      
+      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/emi_music/emimusic_add_playlist.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Music</h4>
+            <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
+            <a href="/desktop/emi_music/emimusic_add_playlist.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>       
+      
+      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+          <img src="/desktop/emi_music/emimusic_add_music.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Music</h4>
+            <p>Discover, play, and enjoy your favorite tunes effortlessly with our music player app.</p>
+            <a href="/desktop/emi_music/emimusic_add_music.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>       
+      
+      
+      <!-- End Portfolio Container -->
+    </div>
     </div>
 
   </div>
