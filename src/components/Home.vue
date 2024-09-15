@@ -29,42 +29,40 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>About</h2>
-    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    <p>Developer with passion for Django Backend Development. Profecient at building APIs and Android Mobile Applications. Machine Learning and Robotics enthusiast.</p>
   </div><!-- End Section Title -->
 
   <div class="container" data-aos="fade-up" data-aos-delay="100">
 
     <div class="row gy-4 justify-content-center">
       <div class="col-lg-4">
-        <img src="/pfp.png" class="img-fluid" alt="">
+        <img src="/pfp-large.png" class="img-fluid" alt="">
       </div>
       <div class="col-lg-8 content">
-        <h2>UI/UX Designer &amp; Web Developer.</h2>
+        <h2>Backend | Android | Django | Java | Langchain Developer.</h2>
         <p class="fst-italic py-3">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
+          I build Android and Desktop apps with Java, websites with Vue.js, backend services with Django, and AI applications with Langchain and Tensorflow.
         </p>
         <div class="row">
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>22 Jan 2004</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Github:</strong> <span><a href="https://github.com/Natan-Asrat">Natan-Asrat</a></span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+2519 0856 0168</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Addis Ababa, Ethiopia</span></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <span><a href="https://www.linkedin.com/in/natan-asrat/">natan-asrat</a></span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Computer Science BSc. (2025)</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>nathanyilmaasrat@example.com</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
         </div>
         <p class="py-3">
-          Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-          Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
+          With a strong passion for technology, I have been involved in various software development projects, ranging from web applications to mobile and desktop apps for Windows. I utilize pre-trained machine learning models and integrate them into Android applications to create intelligent, responsive solutions.
         </p>
       </div>
     </div>
@@ -79,38 +77,39 @@
   <div class="container" data-aos="fade-up" data-aos-delay="100">
 
     <div class="row gy-4">
+      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+        <i class="bi bi-robot"></i>
+        <div class="stats-item">
+          <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
+          <p>AI Apps</p>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+        <i class="bi bi-laptop"></i>
+        <div class="stats-item">
+          <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Desktop Apps</p>
+        </div>
+      </div>
 
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-emoji-smile"></i>
+        <i class="bi bi-phone"></i>
         <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-          <p>Happy Clients</p>
+          <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Android Apps</p>
+        </div>
+      </div><!-- End Stats Item -->
+<!-- End Stats Item -->
+
+      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+        <i class="bi bi-globe"></i>
+        <div class="stats-item">
+          <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Websites</p>
         </div>
       </div><!-- End Stats Item -->
 
-      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-journal-richtext"></i>
-        <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-          <p>Projects</p>
-        </div>
-      </div><!-- End Stats Item -->
-
-      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-headset"></i>
-        <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-          <p>Hours Of Support</p>
-        </div>
-      </div><!-- End Stats Item -->
-
-      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-people"></i>
-        <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-          <p>Hard Workers</p>
-        </div>
-      </div><!-- End Stats Item -->
+      <!-- End Stats Item -->
 
     </div>
 
@@ -124,7 +123,7 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>Skills</h2>
-    <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+    <p>Here’s a glimpse into my skill set and how they contribute to successful project outcomes. The percentages indicate how much I use each technology in my projects, reflecting my proficiency and practical experience.</p>
   </div><!-- End Section Title -->
 
   <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -132,25 +131,31 @@
     <div class="row skills-content skills-animation">
 
       <div class="col-lg-6">
-
         <div class="progress">
-          <span class="skill"><span>HTML</span> <i class="val">100%</i></span>
+          <span class="skill"><span>Android Java | Firebase</span> <i class="val">100%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div><!-- End Skills Item -->
-
         <div class="progress">
-          <span class="skill"><span>CSS</span> <i class="val">90%</i></span>
+          <span class="skill"><span>Python | Django DRF | Flask</span> <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div><!-- End Skills Item -->
 
         <div class="progress">
-          <span class="skill"><span>JavaScript</span> <i class="val">75%</i></span>
+          <span class="skill"><span>Java Swing</span> <i class="val">70%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div><!-- End Skills Item -->
+
+        
+        <div class="progress">
+          <span class="skill"><span>Vue.js | HTML | CSS | JavaScript</span> <i class="val">650%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div><!-- End Skills Item -->
 
@@ -159,23 +164,29 @@
       <div class="col-lg-6">
 
         <div class="progress">
-          <span class="skill"><span>PHP</span> <i class="val">80%</i></span>
+          <span class="skill"><span>SQLite | Postgres</span> <i class="val">70%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div><!-- End Skills Item -->
 
         <div class="progress">
-          <span class="skill"><span>WordPress/CMS</span> <i class="val">90%</i></span>
+          <span class="skill"><span>Langchain</span> <i class="val">50%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div><!-- End Skills Item -->
 
         <div class="progress">
-          <span class="skill"><span>Photoshop</span> <i class="val">55%</i></span>
+          <span class="skill"><span>Tensorflow</span> <i class="val">55%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div><!-- End Skills Item -->
+        <div class="progress">
+          <span class="skill"><span>C++</span> <i class="val">60%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div><!-- End Skills Item -->
 
@@ -193,7 +204,7 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>Resume</h2>
-    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    <p>Explore my professional journey, including education, work experience, and accomplishments.</p>
   </div><!-- End Section Title -->
 
   <div class="container">
@@ -204,55 +215,40 @@
         <h3 class="resume-title">Sumary</h3>
 
         <div class="resume-item pb-0">
-          <h4>Brandon Johnson</h4>
-          <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+          <h4>Natan Asrat</h4>
+          <p><em>Skilled software developer with expertise in Android apps, Django backend development, and AI using Langchain and TensorFlow. Experienced in creating mobile, desktop, and web applications, as well as working with machine learning.</em></p>
           <ul>
-            <li>Portland par 127,Orlando, FL</li>
-            <li>(123) 456-7891</li>
-            <li>alice.barkley@example.com</li>
+            <li>Addis Ababa, Ethiopia</li>
+            <li><a href="mailto:nathanyilmaasrat@example.com">nathanyilmaasrat@example.com</a></li>
+            <li><a href="https://github.com/Natan-Asrat">GitHub: Natan-Asrat</a></li>
+            <li><a href="https://www.linkedin.com/in/natan-asrat/">LinkedIn: natan-asrat</a></li>
           </ul>
         </div><!-- Edn Resume Item -->
 
         <h3 class="resume-title">Education</h3>
         <div class="resume-item">
-          <h4>Master of Fine Arts &amp; Graphic Design</h4>
-          <h5>2015 - 2016</h5>
-          <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-          <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-        </div><!-- Edn Resume Item -->
-
-        <div class="resume-item">
-          <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-          <h5>2010 - 2014</h5>
-          <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-          <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-        </div><!-- Edn Resume Item -->
-
+          <h4>Bachelor of Computer Science</h4>
+          <h5>2022 – 2025 (expected)</h5>
+          <p><em>Addis Ababa University, Addis Ababa, Ethiopia</em></p>
+          <p>Currently pursuing a Bachelor's degree in Computer Science, focusing on software development, algorithms, and data structures.</p>
+        </div>
       </div>
 
       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+        
         <h3 class="resume-title">Professional Experience</h3>
         <div class="resume-item">
-          <h4>Senior graphic design specialist</h4>
-          <h5>2019 - Present</h5>
-          <p><em>Experion, New York, NY </em></p>
+          <h4>Backend Engineering Intern</h4>
+          <h5>2024 - Present</h5>
+          <p><em>iCog Labs, Addis Ababa, Ethiopia </em></p>
           <ul>
-            <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-            <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-            <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-            <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-          </ul>
-        </div><!-- Edn Resume Item -->
-
-        <div class="resume-item">
-          <h4>Graphic design specialist</h4>
-          <h5>2017 - 2018</h5>
-          <p><em>Stepping Stone Advertising, New York, NY</em></p>
-          <ul>
-            <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-            <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-            <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-            <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+            <li>Developed a Cypher query generator function to create dynamic queries from JSON inputs for querying Neo4j databases.</li>
+            <li>Built functions for loading Cypher datasets, running queries, and parsing Neo4j outputs into JSON format.</li>
+            <li>Integrated a Cypher generator class into the gene annotation backend, addressing compatibility issues and streamlining data handling.</li>
+            <li>Implemented Docker Compose for Neo4j and annotation backend, and created a chatbot using Groq llm with Langchain’s GraphCypherQAChain.</li>
+            <li>Completed advanced courses on Supervised Machine Learning and Generative AI, and resolved build and compatibility issues for various libraries and frameworks.</li>
+            <li>Developed and tested unit tests for various Cypher functions and integrated an Amharic character-based transformer model using TensorFlow.</li>
+  
           </ul>
         </div><!-- Edn Resume Item -->
 
@@ -270,7 +266,7 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>Portfolio</h2>
-    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    <p>Explore my diverse range of projects showcasing my expertise in software development.<br> Scroll through below to see examples of my work.<br> Use the filters to select projects based on specific technologies.</p>
   </div><!-- End Section Title -->
 
   <div class="container">
