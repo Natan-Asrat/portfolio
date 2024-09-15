@@ -621,6 +621,91 @@
             <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
+
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/emishopapp/emishop_landing.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Shop</h4>
+            <p>Landing page for Emi Shop App.</p>
+            <a href="/websites/emishopapp/emishop_landing.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/emishopapp/emishop_posts.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Shop</h4>
+            <p>View Posts from Emi Shop App Backend.</p>
+            <a href="/websites/emishopapp/emishop_posts.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/emishopapp/emishop_categories.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Shop</h4>
+            <p>View Categories from Emi Shop App Backend.</p>
+            <a href="/websites/emishopapp/emishop_categories.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/emishopapp/emishop_packages.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Shop</h4>
+            <p>View Packages from Emi Shop App Backend.</p>
+            <a href="/websites/emishopapp/emishop_packages.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/location_collector/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Location Collector and Viewer</h4>
+            <p>View Packages from Emi Shop App Backend.</p>
+            <a href="/websites/location_collector/screenshot.jpg" title="Location Collector and Viewer" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/excel_management/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Excel Management Tool</h4>
+            <p>Landing Page for Excel Management Tool.</p>
+            <a href="/websites/excel_management/screenshot.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/natville_freshman/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Natville Freshman Tutor</h4>
+            <p>Landing Page for Natville Freshman Tutor.</p>
+            <a href="/websites/natville_freshman/screenshot.jpg" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/natville_g12/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Natville Grade 12 Tutor</h4>
+            <p>Landing Page for Natville Grade 12 Tutor.</p>
+            <a href="/websites/natville_g12/screenshot.jpg" title="Natville Grade 12 Tutor" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/audio_detector/screenshot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Audio Detector and Notifier</h4>
+            <p>Landing Page for Audio Detector and Notifier.</p>
+            <a href="/websites/audio_detector/screenshot.jpg" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
       <!-- End Portfolio Container -->
     </div>
     </div>
