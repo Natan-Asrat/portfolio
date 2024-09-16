@@ -175,7 +175,7 @@ import GLightbox from 'glightbox';
         AOS.init({
           duration: 600,
           easing: 'ease-in-out',
-          once: false,
+          once: true,
           mirror: false
         });
       }
