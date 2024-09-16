@@ -37,8 +37,8 @@
   ''
         ],
         portfolioTitle: 'Emi Music',
-        portfolioDescription: 'Discover, play, and enjoy your favorite tunes effortlessly with our music player app.',
-        portfolioAdditionalInfo: 'Additional details about the project.',
+        portfolioDescription: 'Discover, play, and enjoy your favorite tunes effortlessly with our music player app. Easily find songs in your music folder, pick up right where you left off with recent plays, and create personalized playlists to suit every mood. Your music, your way.',
+        portfolioAdditionalInfo: "Emi Music is a music management application that automatically scans the user's 'Music' folder and imports all available MP3 files into a database. The app presents the imported music as a list, and users can click on any track to play it directly within the app. Additionally, it keeps track of recently played music, allowing users to access these tracks quickly from a 'Recent' tab. EMI Music also supports playlist creation, enabling users to organize their music by adding tracks to custom playlists.",
         portfolioExtraDetails: 'Extra details if available.',
         portfolioCategory: 'Desktop Java Swing App | SQLite DB | VueJS Website',
         portfolioClient: 'Academic Project',

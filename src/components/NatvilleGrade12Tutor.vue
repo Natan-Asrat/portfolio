@@ -37,7 +37,7 @@
   ''
         ],
         portfolioTitle: 'Natville Grade 12 Physics',
-        portfolioDescription: 'I’m here to help grade 12 students with my Physics course!',
+        portfolioDescription: 'I’m here to help grade 12 students with my Physics course, and more subjects are coming soon! If you’re preparing for campus or need support, stay tuned for additional courses in other grade 12 subjects. Access my current tutorials by downloading the app below. Thank you!',
         portfolioAdditionalInfo: 'Additional details about the project.',
         portfolioExtraDetails: 'Extra details if available.',
         portfolioCategory: 'Android Java | VueJS Website',

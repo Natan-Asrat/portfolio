@@ -37,8 +37,8 @@
   ''
         ],
         portfolioTitle: 'Emi Shop',
-        portfolioDescription: 'Discover, shop, and connect with Emi Shop!',
-        portfolioAdditionalInfo: 'Additional details about the project.',
+        portfolioDescription: 'Discover, shop, and connect with Emi Shop! Our app combines the best of social media with the convenience of online shopping, creating a unique and engaging shopping experience.',
+        portfolioAdditionalInfo: 'This recommendation system integrates six different recommenders that work together to personalize user experiences. It includes three collaborative filtering algorithms (user-user, item-item, and user-category), with a total of 775 lines of Python code. The system tracks user interactions such as likes, calls to sellers, and view details, allowing it to customize the feed and ads based on collaborative filtering. Users can follow others, and posts can be boosted by purchasing coins. Additionally, the backend features 46 API endpoints and 18 database models, supporting complex database queries to deliver a personalized feed. The front end consists of 34 different layouts, infinite scroll functionality, skeleton views during loading, and both dark and light themes for a seamless user experience.',
         portfolioExtraDetails: 'Extra details if available.',
         portfolioCategory: 'Android Java | Django Backend | VueJS Website',
         portfolioClient: 'Personal Project',
