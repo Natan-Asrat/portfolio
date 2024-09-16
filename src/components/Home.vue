@@ -843,7 +843,7 @@
 </section><!-- End Services Section -->
 
 
-<section id="credits" class="testimonials section">
+<section id="testimonials" class="testimonials section">
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
@@ -1264,39 +1264,35 @@ export default {
 
 <style scoped>
 /* Swiper container styling */
-/* .swiper {
-  overflow: visible; 
-} */
+.swiper {
+  overflow: visible; /* Allows overlapping of slides */
+}
 
 /* Swiper slide styling */
-/* .swiper-slide { */
+.swiper-slide {
   /* Ensure each slide takes up a portion of the container */
-  /* width: 50%; 
+  width: 50%; 
   margin: 0 10%;
   position: relative;
-} */
+}
 
 /* Optional: Adjust visibility of slides for a better overlap effect */
-/* .swiper-slide-prev,
+.swiper-slide-prev,
 .swiper-slide-next {
-  opacity: 0.8; 
-} */
+  opacity: 0.8; /* Make adjacent slides slightly transparent */
+}
 
 /* Ensure the slides are horizontally scrollable */
-/* .swiper-wrapper {
+.swiper-wrapper {
   display: flex;
   align-items: center;
-} */
+}
 
 /* Optional: Style the slide content */
-/* .testimonial-item {
+.testimonial-item {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   padding: 20px;
-}*/
-
-section {
-  min-height: 100vh;
-} 
+}
 
 </style>
