@@ -32,7 +32,7 @@
             
   '/desktop/yegna_pharma/dashboard_profile.jpg',
   '/desktop/yegna_pharma/Inventory.jpg',
-  '/desktop/yegna_pharma/list_of_drugs.pn',
+  '/desktop/yegna_pharma/list_of_drugs.png',
   '/desktop/yegna_pharma/sales_report.jpg',
   '/desktop/yegna_pharma/add_new_order.jpg',
   '/desktop/yegna_pharma/my_profile.png'

@@ -14,6 +14,8 @@
       </div><!-- End Page Title -->
   
       <!-- Portfolio Details Section -->
+       <center ><h2 class="mt-4">Swipe</h2></center>
+       
       <section id="portfolio-details" class="portfolio-details section">
         <div class="container" data-aos="fade-up">
           <!-- Portfolio Details Slider -->
