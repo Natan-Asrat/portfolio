@@ -293,7 +293,7 @@
             <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/new.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Emi Shop</h4>
@@ -317,9 +317,10 @@
             <a href="/apps/emishopapp/saved.png" title="Emi Shop" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div><!-- End Portfolio Item -->
+        </div> -->
+        <!-- End Portfolio Item -->
 
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/location_collector/new_location_collector_file_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Location Collector and Viewer</h4>
@@ -327,7 +328,7 @@
             <a href="/apps/location_collector/new_location_collector_file_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div>
+        </div> -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/location_collector/save_location_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -337,7 +338,7 @@
             <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/location_collector/saved_file_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Location Collector and Viewer</h4>
@@ -363,7 +364,8 @@
             <a href="/apps/location_collector/direction_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div><!-- End Portfolio Item -->
+        </div> -->
+        <!-- End Portfolio Item -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/audio_detector_working_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -373,7 +375,7 @@
             <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app filter-ai">
           <img src="/apps/audio_detector/audio_detector_settings_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Audio Detector and Notifier</h4>
@@ -420,7 +422,7 @@
             <a href="/apps/audio_detector/events_viewer_direction_mockup.png" title="Audio Detector and Notifier" data-gallery="portfolio-gallery-app portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/audio_detector_and_notifier" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div>
+        </div> -->
         
         <!-- End Portfolio Item -->
         
@@ -433,7 +435,7 @@
             <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/natville_g12/electronics_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Natville Grade 12 Physics</h4>
@@ -459,7 +461,7 @@
             <a href="/apps/natville_g12/applications_mockup.png" title="Natville Grade 12 Physics" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/natville_g12_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div>
+        </div> -->
         
         <!-- End Portfolio Item -->
          
@@ -472,7 +474,7 @@
             <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/natville_freshman/logic_mockup.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Natville Freshman Tutor</h4>
@@ -498,7 +500,7 @@
             <a href="/apps/natville_freshman/playing_mockup.png" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div>
+        </div> -->
         <!-- End Portfolio Item -->
 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
@@ -510,7 +512,7 @@
             <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
           <img src="/desktop/yegna_pharma/Inventory.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Yegna Pharma</h4>
@@ -554,7 +556,7 @@
             <a href="/desktop/yegna_pharma/my_profile.png" title="Yegna Pharma" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/yegna_pharma" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div>
+        </div> -->
       <!-- End Portfolio Item -->
       <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
           <img src="/desktop/emi_music/emimusic_playing.jpg" class="img-fluid" alt="">
@@ -566,7 +568,7 @@
           </div>
         </div>       
       
-      <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
           <img src="/desktop/emi_music/emimusic_recent.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Emi Music</h4>
@@ -594,9 +596,9 @@
             <a href="/desktop/emi_music/emimusic_add_music.jpg" title="Emi Music" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/emi_music" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div>       
+        </div>        -->
       
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
           <img src="/desktop/excel_management/excel_mgt_home.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Excel Management Tool</h4>
@@ -613,7 +615,7 @@
             <a href="/desktop/excel_management/excel_mgt_new.jpg" title="Excel Management Tool" data-gallery="portfolio-gallery-desktop" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/excel_management_tool" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div> 
+        </div>  -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-desktop">
           <img src="/desktop/excel_management/excel_mgt_search.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -625,7 +627,7 @@
         </div> 
 
 
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
           <img src="/websites/emishopapp/emishop_landing.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Emi Shop</h4>
@@ -633,7 +635,7 @@
             <a href="/websites/emishopapp/emishop_landing.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div> 
+        </div>  -->
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
           <img src="/websites/emishopapp/emishop_posts.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -643,7 +645,7 @@
             <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
-        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+        <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
           <img src="/websites/emishopapp/emishop_categories.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Emi Shop</h4>
@@ -660,7 +662,7 @@
             <a href="/websites/emishopapp/emishop_packages.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/emishopapp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
-        </div> 
+        </div>  -->
 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
           <img src="/websites/location_collector/screenshot.jpg" class="img-fluid" alt="">
