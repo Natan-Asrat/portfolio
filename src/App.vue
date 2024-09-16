@@ -41,4 +41,6 @@
         </div>
       </div>
     </footer>
+     <!-- Preloader -->
+  <div id="preloader"></div>
 </template>

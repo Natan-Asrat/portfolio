@@ -747,7 +747,9 @@
 <section id="services" class="services section">
 
 <!-- Section Title -->
-<div class="container section-title" data-aos="fade-up">
+<!-- <div class="container section-title" data-aos="fade-up"> -->
+  <div class="container section-title" >
+
   <h2>Services</h2>
   <p>I offer a range of software development services tailored to meet your specific needs. From backend solutions to mobile app development, I leverage my expertise in various technologies to deliver efficient and scalable applications.</p>
 </div><!-- End Section Title -->
@@ -756,7 +758,9 @@
 
   <div class="row gy-4">
 
-    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+    <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100"> -->
+      <div class="col-lg-4 col-md-6" >
+
       <div class="service-item item-cyan position-relative">
         <div class="icon">
           <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -771,7 +775,9 @@
       </div>
     </div><!-- End Service Item -->
 
-    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+    <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200"> -->
+      <div class="col-lg-4 col-md-6" >
+
       <div class="service-item item-orange position-relative">
         <div class="icon">
           <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -786,7 +792,9 @@
       </div>
     </div><!-- End Service Item -->
 
-    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+    <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300"> -->
+      <div class="col-lg-4 col-md-6" >
+
       <div class="service-item item-teal position-relative">
         <div class="icon">
           <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -801,7 +809,9 @@
       </div>
     </div><!-- End Service Item -->
 
-    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+    <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400"> -->
+      <div class="col-lg-4 col-md-6">
+
       <div class="service-item item-purple position-relative">
         <div class="icon">
           <i class="bi bi-laptop"></i>
@@ -813,7 +823,9 @@
       </div>
     </div><!-- End Service Item -->
 
-    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+    <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500"> -->
+      <div class="col-lg-4 col-md-6">
+
       <div class="service-item item-blue position-relative">
         <div class="icon">
           <i class="bi bi-globe"></i>
@@ -825,7 +837,8 @@
       </div>
     </div><!-- End Service Item -->
 
-    <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+    <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600"> -->
+      <div class="col-lg-4 col-md-6">
       <div class="service-item item-red position-relative">
         <div class="icon">
           <i class="bi bi-file-code"></i>
@@ -846,12 +859,16 @@
 <section id="testimonials" class="testimonials section">
 
 <!-- Section Title -->
-<div class="container section-title" data-aos="fade-up">
+<!-- <div class="container section-title" data-aos="fade-up"> -->
+  <div class="container section-title" >
+
   <h2>Credits</h2>
   <p>I want to express my gratitude to those who have supported me along my journey.</p>
 </div><!-- End Section Title -->
 
-<div class="container" data-aos="fade-up" data-aos-delay="100">
+<!-- <div class="container" data-aos="fade-up" data-aos-delay="100"> -->
+  <div class="container" >
+ 
   <div class="swiper init-swiper">
     <div class="swiper-wrapper">
       <!-- Swiper Slides -->
@@ -921,17 +938,23 @@
 <section id="contact" class="contact section">
 
 <!-- Section Title -->
-<div class="container section-title" data-aos="fade-up">
+<!-- <div class="container section-title" data-aos="fade-up"> -->
+  <div class="container section-title">
+
   <h2>Contact</h2>
   <p>Get in touch to discuss how I can help you achieve your goals and address your needs.</p>
 </div><!-- End Section Title -->
 
-<div class="container" data-aos="fade" data-aos-delay="100">
+<!-- <div class="container" data-aos="fade" data-aos-delay="100"> -->
+  <div class="container">
+ 
   <div class="row gy-4">
 
     <!-- Original Contact Information Column -->
     <div class="col-md-6">
-      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+      <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200"> -->
+        <div class="info-item d-flex">
+
         <i class="bi bi-geo-alt flex-shrink-0"></i>
         <div>
           <h3>Address</h3>
@@ -939,7 +962,9 @@
         </div>
       </div><!-- End Info Item -->
 
-      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+      <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300"> -->
+        <div class="info-item d-flex">
+
         <i class="bi bi-telephone flex-shrink-0"></i>
         <div>
           <h3>Call Me</h3>
@@ -947,7 +972,9 @@
         </div>
       </div><!-- End Info Item -->
 
-      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+      <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400"> -->
+        <div class="info-item d-flex" >
+
         <i class="bi bi-envelope flex-shrink-0"></i>
         <div>
           <h3>Email Me</h3>
@@ -959,7 +986,9 @@
 
     <!-- New Social Media Column -->
     <div class="col-md-6">
-      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+      <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200"> -->
+        <div class="info-item d-flex">
+
         <i class="bi bi-linkedin flex-shrink-0"></i>
         <div>
           <h3>LinkedIn</h3>
@@ -967,7 +996,9 @@
         </div>
       </div><!-- End Info Item -->
 
-      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+      <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300"> -->
+        <div class="info-item d-flex" >
+
         <i class="bi bi-facebook flex-shrink-0"></i>
         <div>
           <h3>Facebook</h3>
@@ -975,7 +1006,9 @@
         </div>
       </div><!-- End Info Item -->
 
-      <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+      <!-- <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400"> -->
+        <div class="info-item d-flex" >
+
         <i class="bi bi-telegram flex-shrink-0"></i>
         <div>
           <h3>Telegram</h3>
