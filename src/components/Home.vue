@@ -56,7 +56,7 @@
             <ul>
               <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <span><a href="https://www.linkedin.com/in/natan-asrat/">natan-asrat</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Computer Science BSc. (2025)</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@example.com</a></span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@gmail.com</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
@@ -219,7 +219,7 @@
           <p><em>Skilled software developer with expertise in Android apps, Django backend development, and AI using Langchain and TensorFlow. Experienced in creating mobile, desktop, and web applications, as well as working with machine learning.</em></p>
           <ul>
             <li>Addis Ababa, Ethiopia</li>
-            <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@example.com</a></li>
+            <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@gmail.com</a></li>
             <li><a href="https://github.com/Natan-Asrat">GitHub: Natan-Asrat</a></li>
             <li><a href="https://www.linkedin.com/in/natan-asrat/">LinkedIn: natan-asrat</a></li>
           </ul>
@@ -266,7 +266,7 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>Portfolio</h2>
-    <p>Explore my diverse range of projects showcasing my expertise in software development.<br> Scroll through below to see examples of my work. <br> Click on any image to find the link to visit the project's website and view its description (the link icon appears on the bottom right corner of the image). <br>
+    <p>Explore my diverse range of projects showcasing my expertise in software development.<br> Scroll through below to see gmails of my work. <br> Click on any image to find the link to visit the project's website and view its description (the link icon appears on the bottom right corner of the image). <br>
       Use the filters to select projects based on specific technologies.</p>
   </div><!-- End Section Title -->
 
