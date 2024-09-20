@@ -737,6 +737,15 @@
             <a href="/restaurant_name_generator" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/chatbot/chatbot.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Langchain Groq Chatbot</h4>
+            <p>This project uses LangChain and Groq API to build a simple Chatbot and implements tracing using LangSmith.</p>
+            <a href="/ai/chatbot/chatbot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/chatbot" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
         
       <!-- End Portfolio Container -->
     </div>

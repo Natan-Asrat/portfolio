@@ -45,6 +45,7 @@ import EmiShopApp from './components/EmiShopApp.vue';
 import LocationCollectorApp from './components/LocationCollectorApp.vue';
 import ExcelManagementTool from './components/ExcelManagementTool.vue';
 import EmiMusic from './components/EmiMusic.vue';
+import Chatbot from './components/Chatbot.vue';
 
 
 const routes = [
@@ -57,7 +58,8 @@ const routes = [
     {path: '/emishopapp', component: EmiShopApp},
     {path: '/location_collector_and_viewer', component: LocationCollectorApp},
     {path: '/excel_management_tool', component: ExcelManagementTool},
-    {path: '/emi_music', component: EmiMusic}
+    {path: '/emi_music', component: EmiMusic},
+    {path: '/chatbot', component: Chatbot}
 ]
 
 const router = createRouter(
