@@ -47,6 +47,7 @@ import ExcelManagementTool from './components/ExcelManagementTool.vue';
 import EmiMusic from './components/EmiMusic.vue';
 import Chatbot from './components/Chatbot.vue';
 import EssayWritter from './components/EssayWritter.vue';
+import SimpleRAG from './components/SimpleRAG.vue';
 
 const routes = [
     {path: '/', component: Home},
@@ -60,7 +61,8 @@ const routes = [
     {path: '/excel_management_tool', component: ExcelManagementTool},
     {path: '/emi_music', component: EmiMusic},
     {path: '/chatbot', component: Chatbot},
-    {path: '/essay-writter', component: EssayWritter}
+    {path: '/essay-writter', component: EssayWritter},
+    {path: '/simplerag', component: SimpleRAG}
 ]
 
 const router = createRouter(

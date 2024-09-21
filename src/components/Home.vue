@@ -755,6 +755,15 @@
             <a href="/essay-writter" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/simplerag/rag.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Langchain Simple RAG</h4>
+            <p>This project demonstrates a basic Retrieval-Augmented Generation (RAG) system that loads documents from text files, websites, and PDF files.</p>
+            <a href="/ai/simplerag/rag.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/simplerag" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
       <!-- End Portfolio Container -->
     </div>
     </div>
