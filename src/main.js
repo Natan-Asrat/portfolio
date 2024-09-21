@@ -46,7 +46,7 @@ import LocationCollectorApp from './components/LocationCollectorApp.vue';
 import ExcelManagementTool from './components/ExcelManagementTool.vue';
 import EmiMusic from './components/EmiMusic.vue';
 import Chatbot from './components/Chatbot.vue';
-
+import EssayWritter from './components/EssayWritter.vue';
 
 const routes = [
     {path: '/', component: Home},
@@ -59,7 +59,8 @@ const routes = [
     {path: '/location_collector_and_viewer', component: LocationCollectorApp},
     {path: '/excel_management_tool', component: ExcelManagementTool},
     {path: '/emi_music', component: EmiMusic},
-    {path: '/chatbot', component: Chatbot}
+    {path: '/chatbot', component: Chatbot},
+    {path: '/essay-writter', component: EssayWritter}
 ]
 
 const router = createRouter(

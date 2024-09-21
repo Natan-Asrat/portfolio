@@ -746,7 +746,15 @@
             <a href="/chatbot" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
-        
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/essay/streamlit.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Langserve Essay Writter</h4>
+            <p>This project uses langchain with Groq LLM and Langserve to implement a simple API from which a Streamlit client requests to get an essay written on a specific topic provided by the user.</p>
+            <a href="/ai/essay/streamlit.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/essay-writter" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
       <!-- End Portfolio Container -->
     </div>
     </div>
