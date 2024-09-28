@@ -46,15 +46,13 @@
         <div class="row">
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>22 Jan 2004</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Github:</strong> <span><a href="https://github.com/Natan-Asrat">Natan-Asrat</a></span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <span><a href="https://www.linkedin.com/in/natan-asrat/">natan-asrat</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span><a href="tel:+251908560168">+2519 0856 0168</a></span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Addis Ababa, Ethiopia</span></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>LinkedIn:</strong> <span><a href="https://www.linkedin.com/in/natan-asrat/">natan-asrat</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Computer Science BSc. (2025)</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathanyilmaasrat@gmail.com&su=Contact%20from%20website&body=Hello,%0A%0AThis%20is%20a%20message%20from%20your%20website.%0A%0AThank%20you!" target="_blank">nathanyilmaasrat@gmail.com</a></span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
@@ -77,13 +75,7 @@
   <div class="container" data-aos="fade-up" data-aos-delay="100">
 
     <div class="row gy-4">
-      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-robot"></i>
-        <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
-          <p>AI Apps</p>
-        </div>
-      </div>
+      
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-laptop"></i>
         <div class="stats-item">
@@ -98,7 +90,8 @@
           <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1" class="purecounter"></span>
           <p>Android Apps</p>
         </div>
-      </div><!-- End Stats Item -->
+      </div>
+      <!-- End Stats Item -->
 <!-- End Stats Item -->
 
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
@@ -108,7 +101,13 @@
           <p>Websites</p>
         </div>
       </div><!-- End Stats Item -->
-
+      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+        <i class="bi bi-robot"></i>
+        <div class="stats-item">
+          <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
+          <p>AI Apps</p>
+        </div>
+      </div>
       <!-- End Stats Item -->
 
     </div>
@@ -733,7 +732,7 @@
           <div class="portfolio-info">
             <h4>Restaurant Name Generator</h4>
             <p>This project uses LangChain to generate restaurant names and menu items based on selected cuisines. It utilizes a language model and sequential chaining to provide restaurant-related outputs.</p>
-            <a href="/ai/restaurant_name_generator/screenshot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/ai/restaurant_name_generator/screenshot.jpg" title="Restaurant Name Generator" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/restaurant_name_generator" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
@@ -742,7 +741,7 @@
           <div class="portfolio-info">
             <h4>Langchain Groq Chatbot</h4>
             <p>This project uses LangChain and Groq API to build a simple Chatbot and implements tracing using LangSmith.</p>
-            <a href="/ai/chatbot/chatbot.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/ai/chatbot/chatbot.jpg" title="Langchain Groq Chatbot" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/chatbot" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
@@ -751,7 +750,7 @@
           <div class="portfolio-info">
             <h4>Langserve Essay Writter</h4>
             <p>This project uses langchain with Groq LLM and Langserve to implement a simple API from which a Streamlit client requests to get an essay written on a specific topic provided by the user.</p>
-            <a href="/ai/essay/streamlit.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/ai/essay/streamlit.jpg" title="Langserve Essay Writter" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/essay-writter" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
@@ -760,8 +759,17 @@
           <div class="portfolio-info">
             <h4>Langchain Simple RAG</h4>
             <p>This project demonstrates a basic Retrieval-Augmented Generation (RAG) system that loads documents from text files, websites, and PDF files.</p>
-            <a href="/ai/simplerag/rag.jpg" title="Yegna Pharma" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/ai/simplerag/rag.jpg" title="Langchain Simple RAG" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/simplerag" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div> 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/full_stack_rag/running.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Langchain Full Stack RAG</h4>
+            <p>This project showcases a full-stack Retrieval-Augmented Generation (RAG) pipeline using Langchain and Streamlit. The system loads documents, generates document embeddings, supports multi-query expansion, proposition-based retrieval, and contextual compression, while using ChromaDB for managing the vector store.</p>
+            <a href="/ai/full_stack_rag/running.jpg" title="Langchain Full Stack RAG" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/full_stack_rag" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div> 
       <!-- End Portfolio Container -->

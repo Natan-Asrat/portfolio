@@ -48,6 +48,7 @@ import EmiMusic from './components/EmiMusic.vue';
 import Chatbot from './components/Chatbot.vue';
 import EssayWritter from './components/EssayWritter.vue';
 import SimpleRAG from './components/SimpleRAG.vue';
+import FullStackRAG from './components/FullStackRAG.vue';
 
 const routes = [
     {path: '/', component: Home},
@@ -62,7 +63,8 @@ const routes = [
     {path: '/emi_music', component: EmiMusic},
     {path: '/chatbot', component: Chatbot},
     {path: '/essay-writter', component: EssayWritter},
-    {path: '/simplerag', component: SimpleRAG}
+    {path: '/simplerag', component: SimpleRAG},
+    {path: '/full_stack_rag', component: FullStackRAG}
 ]
 
 const router = createRouter(
