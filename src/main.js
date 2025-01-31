@@ -42,6 +42,7 @@ import YegnaPharma from './components/YegnaPharma.vue';
 import RestaurantNameGenerator from './components/RestaurantNameGenerator.vue';
 import AudioDetectorApp from './components/AudioDetectorApp.vue';
 import EmiShopApp from './components/EmiShopApp.vue';
+import EmiShopping from './components/EmiShopping.vue';
 import LocationCollectorApp from './components/LocationCollectorApp.vue';
 import ExcelManagementTool from './components/ExcelManagementTool.vue';
 import EmiMusic from './components/EmiMusic.vue';
@@ -58,6 +59,7 @@ const routes = [
     {path: '/restaurant_name_generator', component: RestaurantNameGenerator},
     {path: '/audio_detector_and_notifier', component: AudioDetectorApp},
     {path: '/emishopapp', component: EmiShopApp},
+    {path: '/emishopping', component: EmiShopping},
     {path: '/location_collector_and_viewer', component: LocationCollectorApp},
     {path: '/excel_management_tool', component: ExcelManagementTool},
     {path: '/emi_music', component: EmiMusic},

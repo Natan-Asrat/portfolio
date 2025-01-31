@@ -95,13 +95,6 @@
 <!-- End Stats Item -->
 
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-globe"></i>
-        <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
-          <p>Websites</p>
-        </div>
-      </div><!-- End Stats Item -->
-      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-robot"></i>
         <div class="stats-item">
           <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
@@ -109,6 +102,14 @@
         </div>
       </div>
       <!-- End Stats Item -->
+       
+      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+        <i class="bi bi-globe"></i>
+        <div class="stats-item">
+          <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
+          <p>Websites</p>
+        </div>
+      </div><!-- End Stats Item -->
 
     </div>
 
@@ -238,7 +239,7 @@
         <h3 class="resume-title">Professional Experience</h3>
         <div class="resume-item">
           <h4>Backend Engineering Intern</h4>
-          <h5>2024 - Present</h5>
+          <h5>Jul 2024 - Sep 2024</h5>
           <p><em>iCog Labs, Addis Ababa, Ethiopia </em></p>
           <ul>
             <li>Developed a Cypher query generator function to create dynamic queries from JSON inputs for querying Neo4j databases.</li>
@@ -249,7 +250,20 @@
             <li>Developed and tested unit tests for various Cypher functions and integrated an Amharic character-based transformer model using TensorFlow.</li>
   
           </ul>
-        </div><!-- Edn Resume Item -->
+        </div>
+        <div class="resume-item">
+          <h4>Full Stack Developer</h4>
+          <h5>Oct 2024 - Present</h5>
+          <p><em>Gensols, Pakistan </em></p>
+          <ul>
+            <li>Developed a web based educational platform.</li>
+            <li>Added multiplayer features to web3 2d browser game.</li>
+            <li>Built CMS website and Desktop apps.</li>
+            <li>Debugged Java Android Applications and other legacy projects.</li>
+            <li>Contributed to N8N codebase in integrating n8n to Nextcloud.</li>  
+          </ul>
+        </div>
+        <!-- Edn Resume Item -->
 
       </div>
 
@@ -283,6 +297,15 @@
 
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/emishopping/home.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Emi Shopping</h4>
+            <p>Online shopping platform to secure your desired products with just a 1% advance!</p>
+            <a href="/websites/emishopping/home.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/emishopping" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
           <img src="/apps/emishopapp/detail.png" class="img-fluid" alt="">
           <div class="portfolio-info">
