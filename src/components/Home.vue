@@ -298,11 +298,11 @@
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
-          <img src="/websites/emishopping/home.jpg" class="img-fluid" alt="">
+          <img src="/websites/emishopping/home.png" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Emi Shopping</h4>
             <p>Online shopping platform to secure your desired products with just a 1% advance!</p>
-            <a href="/websites/emishopping/home.jpg" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/websites/emishopping/home.png" title="Emi Shop" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/emishopping" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>

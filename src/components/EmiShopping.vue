@@ -29,12 +29,12 @@
       return {
         // Sample data, replace with your actual data
         portfolioImages: [ 
-            '/websites/emishopping/home.jpg',
-            '/websites/emishopping/new.JPG',
-            '/websites/emishopping/order.jpg',
-            '/websites/emishopping/chat.jpg',
-            '/websites/emishopping/detail.JPG',
-            '/websites/emishopping/profile.JPG'
+            '/websites/emishopping/home.png',
+            '/websites/emishopping/new.png',
+            '/websites/emishopping/order.png',
+            '/websites/emishopping/chat.png',
+            '/websites/emishopping/detail.png',
+            '/websites/emishopping/profile.png'
         ],
         portfolioTitle: 'Emi Shopping',
         portfolioDescription: 'Online shopping platform to secure your desired products with just a 1% advance.',
