@@ -297,6 +297,35 @@
 
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_vapi_mcp/one_mcp.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Vapi MCP</h4>
+            <p>Integrates many tools easily available in n8n with Vapi Assistant using MCP for a clinic. Books appointments, sends emergencies through email, logs user data in airtable, and provides accurate information from google docs about the company and it's services.</p>
+            <a href="/ai/n8n_vapi_mcp/one_mcp.png" title="n8n Vapi MCP" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_vapi_mcp" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_hitl_onboarding/final_email.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Human in the Loop Onboarding</h4>
+            <p>Sends an Onboarding message to new lead in airtable once the admin approves of the message, else it improves the message according to the admin's feedback and asks for approval again.</p>
+            <a href="/ai/n8n_hitl_onboarding/final_email.png" title="n8n Human in the Loop Onboarding" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_hitl_onboarding" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_ai_clone/output.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n AI Clone</h4>
+            <p>User gives a short description of what the video will be about and AI will generate a script and create a video where the clone of the user is talking about the topic.</p>
+            <a href="/ai/n8n_ai_clone/output.png" title="n8n AI Clone" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_ai_clone" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
           <img src="/websites/emishopping/home.png" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -358,6 +387,33 @@
             <p>Easily Collect, Save, and Visualize Your Locations!</p>
             <a href="/apps/location_collector/save_location_mockup.png" title="Location Collector and Viewer" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/location_collector_and_viewer" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_long_form_video/output2.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Long Form Video</h4>
+            <p>User fills a form to generate a long form video based on topic and tags (single word descriptions), optionally including Intro video and background music.</p>
+            <a href="/ai/n8n_long_form_video/output2.png" title="n8n Long Form Video" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_long_form_video" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_ad_generator/vintage_theme_output.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Ad Generator</h4>
+            <p>Receives an image and tagline from user to generate an ad image in the themes provided in google sheets and sends the output to telegram.</p>
+            <a href="/ai/n8n_ad_generator/vintage_theme_output.jpg" title="n8n Ad Generator" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_ad_generator" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_veo3_video_generator/output_video.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Veo3 Video Generator</h4>
+            <p>Scheduled to create AI videos using Veo3, save video file on Google Drive and update Google Sheets about the new video created.</p>
+            <a href="/ai/n8n_veo3_video_generator/output_video.png" title="n8n Veo3 Video Generator" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_veo3_video_generator" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
@@ -494,6 +550,34 @@
             <p>I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials.</p>
             <a href="/apps/natville_freshman/choose_playlist_mockup.png" title="Natville Freshman Tutor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
             <a href="/natville_freshman_tutor" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_linkedin_post_generator/linkedin_post.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Linkedin Post Generator</h4>
+            <p>Receives a topic and target audience to generate a post and image and share it on linkedin as well as saving it to google drive and google sheets.</p>
+            <a href="/ai/n8n_linkedin_post_generator/linkedin_post.png" title="n8n Linkedin Post Generator" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_linkedin_post_generator" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_daily_news/sent.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Daily News</h4>
+            <p>Scheduled to send you daily news at 10 AM through Telegram.</p>
+            <a href="/ai/n8n_daily_news/sent.png" title="n8n Daily News" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_daily_news" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
+          <img src="/ai/n8n_customer_support/replied.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>n8n Customer Support</h4>
+            <p>Classify email as Customer Support or not. Answer questions and reply by retrieving documents from pinecone. Label the email as Customer Support.</p>
+            <a href="/ai/n8n_customer_support/replied.jpg" title="n8n Customer Support" data-gallery="portfolio-gallery-ai" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/n8n_customer_support" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
           </div>
         </div>
         <!-- <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">

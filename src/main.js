@@ -50,9 +50,27 @@ import Chatbot from './components/Chatbot.vue';
 import EssayWritter from './components/EssayWritter.vue';
 import SimpleRAG from './components/SimpleRAG.vue';
 import FullStackRAG from './components/FullStackRAG.vue';
+import n8nVapiMcp from './components/n8nVapiMcp.vue';
+import n8nOnboardingHitl from './components/n8nOnboardingHitl.vue';
+import n8nAiClone from './components/n8nAiClone.vue';
+import n8nLongFormJson2Video from './components/n8nLongFormJson2Video.vue';
+import n8nAdGenerator from './components/n8nAdGenerator.vue';
+import n8nVeo3VideoGenerator from './components/n8nVeo3VideoGenerator.vue';
+import n8nLinkedinGenerator from './components/n8nLinkedinGenerator.vue';
+import n8nDailyNews from './components/n8nDailyNews.vue';
+import n8nCustomerSupport from './components/n8nCustomerSupport.vue';
 
 const routes = [
     {path: '/', component: Home},
+    {path: '/n8n_vapi_mcp', component: n8nVapiMcp},
+    {path: '/n8n_hitl_onboarding', component: n8nOnboardingHitl},
+    {path: '/n8n_ai_clone', component: n8nAiClone},
+    {path: '/n8n_long_form_video', component: n8nLongFormJson2Video},
+    {path: '/n8n_ad_generator', component: n8nAdGenerator},
+    {path: '/n8n_veo3_video_generator', component: n8nVeo3VideoGenerator},
+    {path: '/n8n_linkedin_post_generator', component: n8nLinkedinGenerator},
+    {path: '/n8n_daily_news', component: n8nDailyNews},
+    {path: '/n8n_customer_support', component: n8nCustomerSupport},
     {path: '/natville_g12_tutor', component: NatvilleGrade12Tutor},
     {path: '/natville_freshman_tutor', component: NatvilleFreshmanTutor},
     {path: '/yegna_pharma', component: YegnaPharma},
