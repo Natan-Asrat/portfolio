@@ -228,9 +228,9 @@
         <h3 class="resume-title">Education</h3>
         <div class="resume-item">
           <h4>Bachelor of Computer Science</h4>
-          <h5>2022 – 2025 (expected)</h5>
+          <h5>2022 – 2025</h5>
           <p><em>Addis Ababa University, Addis Ababa, Ethiopia</em></p>
-          <p>Currently pursuing a Bachelor's degree in Computer Science, focusing on software development, algorithms, and data structures.</p>
+          <p>Bachelor's degree in Computer Science, focusing on software development, and artificial intelligence.</p>
         </div>
       </div>
 
@@ -253,7 +253,7 @@
         </div>
         <div class="resume-item">
           <h4>Full Stack Developer</h4>
-          <h5>Oct 2024 - Present</h5>
+          <h5>Oct 2024 - Feb 2025</h5>
           <p><em>Gensols, Pakistan </em></p>
           <ul>
             <li>Developed a web based educational platform.</li>
