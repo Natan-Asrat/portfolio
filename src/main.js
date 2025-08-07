@@ -59,9 +59,16 @@ import n8nVeo3VideoGenerator from './components/n8nVeo3VideoGenerator.vue';
 import n8nLinkedinGenerator from './components/n8nLinkedinGenerator.vue';
 import n8nDailyNews from './components/n8nDailyNews.vue';
 import n8nCustomerSupport from './components/n8nCustomerSupport.vue';
-
+import Cricket from './components/Cricket.vue';
+import Paletial from './components/Paletial.vue';
+import Betegna from './components/Betegna.vue';
+import NatanAI from './components/NatanAI.vue';
 const routes = [
     {path: '/', component: Home},
+    {path: '/natanai', component: NatanAI},
+    {path: '/cricket', component: Cricket},
+    {path: '/paletial', component: Paletial},
+    {path: '/betegna', component: Betegna},
     {path: '/n8n_vapi_mcp', component: n8nVapiMcp},
     {path: '/n8n_hitl_onboarding', component: n8nOnboardingHitl},
     {path: '/n8n_ai_clone', component: n8nAiClone},

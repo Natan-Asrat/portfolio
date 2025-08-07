@@ -97,7 +97,7 @@
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-globe"></i>
         <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="14" data-purecounter-duration="1" class="purecounter"></span>
+          <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
           <p>Websites</p>
         </div>
       </div><!-- End Stats Item -->
@@ -294,7 +294,43 @@
       </ul><!-- End Portfolio Filters -->
 
       <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
-
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai filter-web">
+          <img src="/ai/natanai/tg_search1.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Natan AI</h4>
+            <p>Transform your Telegram bot with AI-powered search and smart responses. Add your bot token and let it handle group conversations intelligently.</p>
+            <a href="/ai/natanai/tg_search1.png" title="Cricket Betting" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/natanai" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai filter-web">
+          <img src="/websites/cricket/bet_placed.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Cricket Betting</h4>
+            <p>Betting website for cricket lovers. Payment through paypal or manually through UPI.</p>
+            <a href="/websites/cricket/bet_placed.png" title="Cricket Betting" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/cricket" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/paletial/property.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Paletial Real Estate</h4>
+            <p>Real Estate website for properties in Addis Ababa, Ethiopia. Features multiple sellers on commission, promotters and logs the users who call.</p>
+            <a href="/websites/paletial/property.png" title="Paletial Real Estate" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/paletial" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+          <img src="/websites/betegna/betegna_inside.png" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Betegna Real Estate</h4>
+            <p>Simulate a property visit by enabling users to move and look freely in every direction.</p>
+            <a href="/websites/betegna/betegna_inside.png" title="Betegna Real Estate" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="/betegna" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+        
         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-ai">
           <img src="/ai/n8n_vapi_mcp/one_mcp.png" class="img-fluid" alt="">
           <div class="portfolio-info">
