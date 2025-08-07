@@ -4,7 +4,7 @@
 <!-- Hero Section -->
 <section id="hero" class="hero section light-background">
 
-  <img src="/hero-bg.png" alt="">
+  <img src="/hero-new.png" alt="">
 
   <div class="container" data-aos="zoom-out">
     <div class="row justify-content-center">
