@@ -93,15 +93,6 @@
       </div>
       <!-- End Stats Item -->
 <!-- End Stats Item -->
-
-      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-        <i class="bi bi-robot"></i>
-        <div class="stats-item">
-          <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
-          <p>AI Apps</p>
-        </div>
-      </div>
-      <!-- End Stats Item -->
        
       <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
         <i class="bi bi-globe"></i>
@@ -110,7 +101,14 @@
           <p>Websites</p>
         </div>
       </div><!-- End Stats Item -->
-
+      <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
+        <i class="bi bi-robot"></i>
+        <div class="stats-item">
+          <span data-purecounter-start="0" data-purecounter-end="21" data-purecounter-duration="1" class="purecounter"></span>
+          <p>AI Apps</p>
+        </div>
+      </div>
+      <!-- End Stats Item -->
     </div>
 
   </div>
