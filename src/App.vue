@@ -1,10 +1,10 @@
 
 <template>
-      <header id="header" class="header d-flex flex-column justify-content-center">
+      <header id="header" style="pointer-events: none;" class="header d-flex flex-column justify-content-center">
 
-<i class="header-toggle d-xl-none bi bi-list"></i>
+<i  style="pointer-events: auto;" class="header-toggle d-xl-none bi bi-list"></i>
 
-<nav id="navmenu" class="navmenu">
+<nav id="navmenu" style="pointer-events: auto;" class="navmenu">
   <ul>
     <li><a href="/#hero" class="active"><i class="bi bi-house navicon"></i><span>Home</span></a></li>
     <li><a href="/#about"><i class="bi bi-person navicon"></i><span>About</span></a></li>
